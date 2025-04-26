@@ -6,7 +6,7 @@ Una pequeña aplicación de tienda de plantas construida con **React**. Permite 
 
 ## 📸 Vista previa
 
-![preview](./previojungla.jpg)
+![preview](./src/assets/previojungla.jpg)
 
 ---
 
