@@ -1,0 +1,43 @@
+.lmj-cart {
+	color: white;
+	background-color: #31b572;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width: 200px;
+}
+
+
+.lmj-cart-closed {
+	padding: 32px;
+	width: 200px;
+}
+
+.lmj-cart-closed > button {
+	color: black;
+}
+
+.lmj-detailProduct{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
+
+.lmj-deleteBtn{
+	height: 18px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+
+.lmj-delete-all{
+	background-color: #fff;
+	border: none;
+	padding: 5px 10px;
+	border-radius: 60px;
+	cursor: pointer;
+}
+.lmj-delete-all:hover{
+	background-color: #1f1e1e;
+	color: #fff;
+}

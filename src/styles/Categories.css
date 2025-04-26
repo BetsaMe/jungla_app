@@ -1,0 +1,38 @@
+.lmj-categories {
+	text-align: center;
+	padding-top: 30px;
+	margin-bottom: 30px;
+}
+
+.lmj-categories-select {
+	margin-right: 15px;
+}
+
+.lmj-categories-button{
+	height: 30px;
+	border: 1px solid #31b472;
+	border-radius: 30px;
+	margin: 0 10px;
+	padding: 0 10px;
+	background-color: #f4f4f4;
+	cursor: pointer;
+}
+.lmj-btn-clear{
+	height: 30px;
+	border-radius: 30px;
+	border: none;
+	background-color: #31b472;
+	color: #fff;
+	padding: 0 10px;
+	margin-left: 10px;
+	cursor: pointer;
+
+}
+.lmj-btn-clear:hover{
+	background-color: #22724A;
+}
+.lmj-btn-active{
+	background-color:black;
+	color: #f4f4f4;
+	border:none;
+}
